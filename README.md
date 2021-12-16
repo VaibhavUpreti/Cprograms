@@ -11,10 +11,10 @@ Q1.  Write a program to find divisor or factorial of a given number.
 
 
 
-2. Write a program to find sum of a geometric series
-3. Write a recursive program for tower of Hanoi problem
-4. Write a recursive program to print the first m Fibonacci number
-5. Write a menu driven program for matrices to do the following operation depending on whether the
+2. Write a program to find sum of a geometric series(done)
+3. Write a recursive program for tower of Hanoi problem (done)
+4. Write a recursive program to print the first m Fibonacci number (done)
+5. Write a menu driven program for matrices to do the following operation depending on whether the (done)
 operation requires one or two matrices
 IMP- conio.h file is windows specific!!!
 a. Addition of two matrices
