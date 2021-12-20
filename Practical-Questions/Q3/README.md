@@ -1,4 +1,3 @@
-#Q3
 
 # Hanoi Problem in C
 
